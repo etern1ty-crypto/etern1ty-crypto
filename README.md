@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <div align="center">
-  <img src="link" alt="Banner" width="100%">
+  <img src="lhttps://github.com/etern1ty-crypto/etern1ty-crypto/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%">
 </div>
 
 <h1 align="center">Hi there, I'm Nikita (aka etern1ty-crypto) 👁️‍🗨️</h1>
