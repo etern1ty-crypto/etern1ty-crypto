@@ -19,7 +19,7 @@
 <tr>
 <td width="50%">
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=etern1ty-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
+<img align="right" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api?username=etern1ty-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
 
 ### About me
 
@@ -44,7 +44,7 @@ currently: Building commercial web
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=etern1ty-crypto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=555555" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etern1ty-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=etern1ty-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="100%" />
 
 </td>
 </tr>
