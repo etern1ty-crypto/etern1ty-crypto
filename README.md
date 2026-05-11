@@ -60,17 +60,15 @@ currently: Building commercial web
 | | |
 |:---:|:---:|
 | **[SIGMA-PROBE](https://github.com/etern1ty-crypto/SIGMA-PROBE)** | **[HONEY-MIND](https://github.com/etern1ty-crypto/HONEY-MIND)** |
-| [![CI](https://github.com/etern1ty-crypto/SIGMA-PROBE/actions/workflows/ci.yml/badge.svg)](https://github.com/etern1ty-crypto/SIGMA-PROBE/actions) | [![CI](https://github.com/etern1ty-crypto/HONEY-MIND/actions/workflows/ci.yml/badge.svg)](https://github.com/etern1ty-crypto/HONEY-MIND/actions) |
 | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MIT](https://img.shields.io/badge/MIT-blue?style=flat-square) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-blue?style=flat-square) |
 | Modular threat analysis engine. FFT spectral detection, graph-based campaign clustering, behavioral vectors, MITRE ATT&CK tagging. Helios v2.0 architecture. | Low-interaction TCP honeypot `minotaur`. SSH/HTTP/Telnet/Raw protocol emulation, JSONL session logs, Prometheus metrics, per-IP rate limiting. |
 | | |
 | **[omsk-membrane](https://github.com/etern1ty-crypto/omsk-membrane)** | **[runet-blackbox](https://github.com/etern1ty-crypto/runet-blackbox)** |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | [![validate](https://github.com/etern1ty-crypto/runet-blackbox/actions/workflows/validate.yml/badge.svg)](https://github.com/etern1ty-crypto/runet-blackbox/actions) |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Linux 6.8+](https://img.shields.io/badge/Linux_6.8+-FCC624?style=flat-square&logo=linux&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MIT](https://img.shields.io/badge/MIT-blue?style=flat-square) |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Linux 6.8+](https://img.shields.io/badge/Linux_6.8+-FCC624?style=flat-square&logo=linux&logoColor=black) | [![validate](https://github.com/etern1ty-crypto/runet-blackbox/actions/workflows/validate.yml/badge.svg)](https://github.com/etern1ty-crypto/runet-blackbox/actions) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | Hardened virtualization layer. SPSC ring buffers, CET shadow stacks, MPK memory isolation — zero-syscall, < 60µs boot. | Open network observability for unstable networks. DNS/TCP/TLS/HTTP diagnostics, censorship measurement, sanitized reports. |
 | | |
 | **[ai-office-kernel](https://github.com/etern1ty-crypto/ai-office-kernel)** | **[cleanbot](https://github.com/etern1ty-crypto/cleanbot)** |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/TMA-26A5E4?style=flat-square) |
 | Telegram-driven multi-agent AI office kernel. Ollama secretary loop + Gemini CLI escalation, backend tools, task sessions. | Telegram bot with TMA (Mini App) integration. Moderation, content management, group automation. |
 
 </div>
