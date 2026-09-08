@@ -1,15 +1,15 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=220&section=header&text=etern1ty-crypto&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Systems%20%26%20Network%20Observability%20%7C%20AI%20Tooling&descSize=16&descColor=00D9FF&descAlignY=55&animation=fadeIn" width="100%"/>
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=220&section=header&text=etern1ty-crypto&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=InfoSec%20Student%20%40%20KubSTU%20(10.03.01)%20%7C%20Blue%20Team%20%26%20Python%2FGo&descSize=16&descColor=00D9FF&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Defensive+Security+Practitioner+%26+Systems+Builder;Blue+Team+%E2%80%A2+SIEM+%E2%80%A2+Threat+Hunting+%E2%80%A2+Honeypots;DPI+Bypass+%E2%80%A2+Hardened+Kernels+%E2%80%A2+MCP+Hubs;To+protect+systems%2C+master+how+they+break+%F0%9F%9B%A1%EF%B8%8F)](https://github.com/etern1ty-crypto)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=680&lines=1st+Year+InfoSec+Student+%40+KubSTU+(10.03.01);Junior+Python+Developer+%E2%80%A2+Learning+Golang;Exploring+Blue+Team%2C+SIEM+%26+Network+Security;Daily+driving+Win11+%E2%80%A2+Hands-on+with+Debian%2FUbuntu;To+protect+systems%2C+master+how+they+break+%F0%9F%9B%A1%EF%B8%8F)](https://github.com/etern1ty-crypto)
 
 <br/>
 
 <a href="https://t.me/etern1ty_crypto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=etern1ty-crypto&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views"/>&nbsp;
 <a href="https://github.com/etern1ty-crypto?tab=repositories"><img src="https://img.shields.io/badge/Repos-22%2B-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>&nbsp;
-<a href="https://github.com/etern1ty-crypto"><img src="https://img.shields.io/badge/Focus-Defensive_Security-00D9FF?style=for-the-badge&logo=shield&logoColor=white" alt="Focus"/></a>
+<a href="https://kubstu.ru/"><img src="https://img.shields.io/badge/KubSTU-10.03.01_InfoSec-00D9FF?style=for-the-badge&logo=target&logoColor=white" alt="KubSTU"/></a>
 
 </div>
 
@@ -18,40 +18,53 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="52%">
 
-### ⚡ Terminal
+### ⚡ Terminal / whoami
 
 ```yaml
-name: Nikita
-role: Cybersecurity & Systems Engineer
-focus:
-  - Blue Team & Threat Hunting (SIEM / Logs)
-  - Deception Tech & Honeypot Research
-  - Network Observability & DPI Bypass
-  - Hardened Virtualization (CET / MPK)
-  - Autonomous AI Agents & Remote MCP
-languages: [Rust, Python, TypeScript, C/C++, Bash]
-environment: Arch / Kali Linux / Debian
+name: Nikita (etern1ty-crypto)
+education:
+  university: КубГТУ (KubSTU)
+  faculty: Информационная безопасность
+  code: 10.03.01
+  status: 1st Year Student (Freshman)
+
+stack:
+  primary: Python (Junior level)
+  learning: Go / Golang (In progress 🚀)
+  scripting: Bash / Shell
+
+systems:
+  primary_os: Windows 11
+  server_and_labs: Debian Linux / Ubuntu
+
+interests:
+  - Defensive Security & Blue Team fundamentals
+  - Log Analysis, SIEM & Threat Hunting
+  - Network Observability & DPI-bypass mechanics
+  - Telegram Bots & Automation Tools
+  - AI Agent tooling & Model Context Protocol (MCP)
+
 motto: "To protect systems, master how they break."
 ```
 
 </td>
-<td width="50%">
+<td width="48%">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=etern1ty-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" width="100%" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="52%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=etern1ty-crypto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=555555" width="100%" />
 
 </td>
-<td width="50%">
+<td width="48%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=etern1ty-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=etern1ty-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" width="100%" />
 
 </td>
 </tr>
@@ -60,88 +73,76 @@ motto: "To protect systems, master how they break."
 
 ---
 
-<h2 align="center">🛡️ Featured Projects</h2>
+<h2 align="center">🛡️ Featured Projects & Research</h2>
 
 <div align="center">
 
-### 🔒 Cybersecurity & Hardened Systems
+### 🔒 Cybersecurity & Security Research
 
 | Project | Stack | Description |
 |:---|:---:|:---|
-| **[SIGMA-PROBE](https://github.com/etern1ty-crypto/SIGMA-PROBE)** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MIT](https://img.shields.io/badge/MIT-00D9FF?style=flat-square) | **Modular threat analysis framework** for web logs. Spectral FFT detection, graph-based campaign clustering, behavioral vectors, and automated MITRE ATT&CK mapping. |
-| **[HONEY-MIND](https://github.com/etern1ty-crypto/HONEY-MIND)** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-00D9FF?style=flat-square) | **Low-interaction TCP honeypot** (`minotaur`). Emulates SSH/HTTP/Telnet/Raw protocols with structured JSONL session recording, Prometheus metrics, and per-IP rate limiting. |
-| **[omsk-membrane](https://github.com/etern1ty-crypto/omsk-membrane)** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_6.8+-FCC624?style=flat-square&logo=linux&logoColor=black) | **Hardened virtualization layer**. SPSC ring buffers, Intel CET shadow stacks, MPK memory domain isolation — zero-syscall architecture with < 60µs boot time. |
-| **[runet-blackbox](https://github.com/etern1ty-crypto/runet-blackbox)** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square) | **Open network observability platform** for degraded and censored networks. Active DNS/TCP/TLS/HTTP diagnostics and sanitized automated reports. |
+| **[SIGMA-PROBE](https://github.com/etern1ty-crypto/SIGMA-PROBE)** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Security](https://img.shields.io/badge/Security-Blue_Team-00D9FF?style=flat-square) | **Модульный фреймворк анализа веб-логов** и киберугроз. Спектральный анализ FFT, кластеризация векторов атак и картирование по матрице MITRE ATT&CK. |
+| **[HONEY-MIND](https://github.com/etern1ty-crypto/HONEY-MIND)** | ![Rust](https://img.shields.io/badge/Rust-Core-000000?style=flat-square&logo=rust&logoColor=white) ![Research](https://img.shields.io/badge/Research-Honeypot-orange?style=flat-square) | **TCP-ханипот `minotaur`**: исследование низкоуровневых системных ловушек. Эмуляция протоколов SSH/HTTP/Telnet, сбор сессий в JSONL и экспорт метрик в Prometheus. |
+| **[omsk-membrane](https://github.com/etern1ty-crypto/omsk-membrane)** | ![Rust](https://img.shields.io/badge/Rust-Systems-000000?style=flat-square&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Kernel_Hardening-FCC624?style=flat-square&logo=linux&logoColor=black) | Исследование защищённого слоя виртуализации: аппаратная защита памяти (Intel CET, MPK) и кольцевые буферы SPSC. |
+| **[runet-blackbox](https://github.com/etern1ty-crypto/runet-blackbox)** | ![JS](https://img.shields.io/badge/JS%2FNode-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Network](https://img.shields.io/badge/Network-Observability-blue?style=flat-square) | Сетевая наблюдаемость для нестабильных сетей: автоматические диагностические тесты DNS/TCP/TLS/HTTP и санированные отчеты. |
 
-### ⚡ Network Resilience & Local Tools
-
-| Project | Stack | Description |
-|:---|:---:|:---|
-| **[tandem-vpn](https://github.com/etern1ty-crypto/tandem-vpn)** | ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | **Ultimate local DPI-bypass & VPN tandem** (Zapret + WARP + Goida) packaged into a slick Tauri desktop GUI. Fully client-side without relying on central server infrastructure. |
-
-### 🤖 AI Agents & MCP Ecosystem
+### ⚡ Network Tools & DPI Bypass
 
 | Project | Stack | Description |
 |:---|:---:|:---|
-| **[remote-mcp-hub](https://github.com/etern1ty-crypto/remote-mcp-hub)** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-00D9FF?style=flat-square) | **Remote MCP infrastructure** hub for cross-platform agent tool execution across Linux, macOS, and restricted network environments. |
-| **[ai-office-kernel](https://github.com/etern1ty-crypto/ai-office-kernel)** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) | **Telegram-driven multi-agent AI office kernel**. Local Ollama secretary loop + Gemini CLI escalation, backend system tools, and managed task sessions. |
-| **[qwen-local-api](https://github.com/etern1ty-crypto/qwen-local-api)** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LLM](https://img.shields.io/badge/Qwen-Local-orange?style=flat-square) | **Lightweight local API wrapper** for Qwen models featuring automatic context compaction and high-throughput streaming. |
+| **[tandem-vpn](https://github.com/etern1ty-crypto/tandem-vpn)** | ![Tauri](https://img.shields.io/badge/Tauri-Desktop-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![Network](https://img.shields.io/badge/DPI-Bypass-00D9FF?style=flat-square) | **Локальный тандем для обхода блокировок и DPI** (Zapret + WARP + Goida) с десктопным интерфейсом на Tauri. Работает полностью локально на клиенте. |
 
-### ⚙️ Low-Level & Mobile Engineering
+### 🤖 AI Agents & Tools
 
 | Project | Stack | Description |
 |:---|:---:|:---|
-| **[SennaCamUnlock](https://github.com/etern1ty-crypto/SennaCamUnlock)** | ![KernelSU](https://img.shields.io/badge/KernelSU%2FMagisk-3DDC84?style=flat-square&logo=android&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | **KernelSU / Magisk module** unlocking Realme/OPLUS camera HAL aux lenses (ultrawide, telephoto) for 3rd-party camera apps via vendor XML overlays. |
-| **[TaroGram](https://github.com/etern1ty-crypto/TaroGram)** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram_Fork-26A5E4?style=flat-square&logo=telegram&logoColor=white) | Custom Telegram client tailored for Realme GT Neo 5: direct Qualcomm vendor HAL tags, EISV3 stabilization, and Realme UI 7.0 subsystem optimizations. |
+| **[remote-mcp-hub](https://github.com/etern1ty-crypto/remote-mcp-hub)** | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Protocol-00D9FF?style=flat-square) | Инфраструктурный хаб удалённых MCP-серверов (Model Context Protocol) для подключения внешних инструментов к AI-агентам на Linux и macOS. |
+| **[ai-office-kernel](https://github.com/etern1ty-crypto/ai-office-kernel)** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AI](https://img.shields.io/badge/AI-Multi--Agent-purple?style=flat-square) | Мультиагентное ядро для Telegram с локальным циклом Ollama и возможностью эскалации сложных задач во внешние модели. |
+| **[qwen-local-api](https://github.com/etern1ty-crypto/qwen-local-api)** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OAI](https://img.shields.io/badge/API-OpenAI_Format-green?style=flat-square) | Локальный API-сервер для моделей семейства Qwen с автоматической компактификацией диалогового контекста. |
 
-### 🌐 Modern Web & Products
+### 📱 Android Low-Level & Tweaks
 
 | Project | Stack | Description |
 |:---|:---:|:---|
-| **[tolk](https://github.com/etern1ty-crypto/tolk)** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | **ТОЛК.** — Digital psychological ecosystem: modern Web MVP, vault architecture, and interactive client portal. |
-| **[mostovskoe-voa](https://github.com/etern1ty-crypto/mostovskoe-voa)** | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | High-performance commercial platform for Mostovskoe Driving School with modern UI, responsive layout, and top Lighthouse scores. |
-| **[cleanbot](https://github.com/etern1ty-crypto/cleanbot)** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TMA](https://img.shields.io/badge/TMA-Telegram_Mini_App-26A5E4?style=flat-square&logo=telegram&logoColor=white) | Automated bot platform integrated with Telegram Mini Apps for community moderation, access gates, and media delivery. |
+| **[SennaCamUnlock](https://github.com/etern1ty-crypto/SennaCamUnlock)** | ![KernelSU](https://img.shields.io/badge/KernelSU%2FMagisk-3DDC84?style=flat-square&logo=android&logoColor=white) | Модуль для Magisk / KernelSU, разблокирующий доступ сторонних приложений к дополнительным объективам камеры через оверлей HAL. |
+| **[TaroGram](https://github.com/etern1ty-crypto/TaroGram)** | ![Android](https://img.shields.io/badge/Android-Client-3DDC84?style=flat-square&logo=android&logoColor=white) | Оптимизированный форк клиента Telegram под платформу senna (Realme GT Neo 5) со стабилизацией EISV3 и поддержкой тегов вендора. |
+
+### 🌐 Web & Bots
+
+| Project | Stack | Description |
+|:---|:---:|:---|
+| **[tolk](https://github.com/etern1ty-crypto/tolk)** | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Web](https://img.shields.io/badge/Web-Platform-61DAFB?style=flat-square) | **ТОЛК.** — веб-платформа психологической экосистемы (MVP клиентского портала и структурированное хранилище материалов). |
+| **[mostovskoe-voa](https://github.com/etern1ty-crypto/mostovskoe-voa)** | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Быстрый адаптивный сайт для автошколы Мостовское ВОА с упором на скорость загрузки и чистый UI. |
+| **[cleanbot](https://github.com/etern1ty-crypto/cleanbot)** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-Mini_Apps-26A5E4?style=flat-square&logo=telegram&logoColor=white) | Телеграм-бот с интеграцией Telegram Mini App (TMA) для модерации и управления контентом. |
 
 </div>
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(Junior)-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go_(Learning_🚀)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/Bash%2FShell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Cybersecurity & Infrastructure**
+**Operating Systems & Environments**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows_11_(Primary)-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian_Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools, Security & Protocols**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-**AI & Agentic Systems**
-
-![Model Context Protocol](https://img.shields.io/badge/MCP-Protocol-00D9FF?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=for-the-badge)
-
-**Apps, UI & Frameworks**
-
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-00D9FF?style=for-the-badge&logo=anthropic&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots%2FTMA-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
