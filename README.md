@@ -1,4 +1,4 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=220&section=header&text=etern1ty-crypto&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=InfoSec%20Student%20%40%20KubSTU%20(10.03.01)%20%7C%20Blue%20Team%20%26%20Python%2FGo&descSize=16&descColor=00D9FF&descAlignY=55&animation=fadeIn" width="100%"/>
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=220&section=header&text=etern1ty-crypto&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=InfoSec%20Student%20%40%20KubSTU%20(10.03.01)%20%7C%20Blue%20Team%20%7C%20Python%20and%20Go&descSize=16&descColor=00D9FF&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="52%">
+<td width="50%" valign="top">
 
 ### ⚡ Terminal / whoami
 
@@ -50,21 +50,18 @@ motto: "To protect systems, master how they break."
 ```
 
 </td>
-<td width="48%">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=etern1ty-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=etern1ty-crypto&theme=tokyonight" width="100%" alt="GitHub Stats" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etern1ty-crypto&theme=tokyonight" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
 <tr>
-<td width="52%">
+<td colspan="2" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=etern1ty-crypto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=555555" width="100%" />
-
-</td>
-<td width="48%">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=etern1ty-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=etern1ty-crypto&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=555555" width="100%" alt="Streak Stats" />
 
 </td>
 </tr>
@@ -161,9 +158,5 @@ motto: "To protect systems, master how they break."
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=etern1ty-crypto&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15" alt="Trophies" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
